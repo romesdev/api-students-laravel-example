@@ -1,2 +1,2 @@
 # api-students-laravel-example
-Api de Estudantes - Projeto de estudo em Laravel
+api de estudantes - projeto de estudo em Laravel
